@@ -83,11 +83,9 @@ This is a list of the most useful things I found was possible while making your 
     </tr>
   </table>
 </div>
-<br></br>
 
 ### How ~~not~~ to *edit* text in the **README.MD** file?
 - LMAO, well [this](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is where I learned to edit my text from. Highly recommend checking it out if you have the time!
-<br></br>
 
 ### How to center text or images? 
 - If you want to use CSS in your README.md files you need to add html to the code. e.g. something like div's 
@@ -96,7 +94,6 @@ This is a list of the most useful things I found was possible while making your 
   <p> Hello world<p>
 </div>
 ```
-<br></br>
 
 ### How to add images or gif's?
 ```
