@@ -106,4 +106,4 @@ This is a list of the some of the most useful things I found while making my git
 ```
 
 ### What is a "full width" size in images and gif's?
-The width that worked the best as full width was 1601 pixels, while heigth depends what you want. I personally used 1601x200 and 1601x728 sized gif's in my profile.
+- The width that worked the best as full width was 1601 pixels, while heigth depends what you want. I personally used 1601x200 and 1601x728 sized gif's in my profile.
