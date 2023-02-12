@@ -72,6 +72,15 @@ This is a list of the most useful things I found was possible while making your 
         <img src="https://github.com/em1e/em1e/blob/output/github-contribution-grid-snake.svg"/>
       </th>
     </tr>
+    <tr>
+      <th>
+        <a href="https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-a-gif-to-a-markdown-file">
+          <p>Adding gif's</p>
+      </th>
+      <th>
+        <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/> <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/> <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/> <img src="https://raw.githubusercontent.com/em1e/em1e/main/banners/200w-1.webp" width="150"/>
+      </th>
+    </tr>
   </table>
 </div>
 <br></br>
@@ -88,6 +97,15 @@ This is a list of the most useful things I found was possible while making your 
 </div>
 ```
 <br></br>
+
+### How to add images or gif's?
+```
+<img src="<link>" width="<width>" height="<height>"/>
+```
+or
+```
+![<Alt Text>](<link to image>)
+```
 
 ### What is a "full width" size in images and gif's?
 The width that worked the best as full width was 1601 pixels, while heigth depends what you want. I personally used 1601x200 and 1601x728 sized gif's in my profile.
