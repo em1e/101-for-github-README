@@ -86,6 +86,8 @@ This is a list of the some of the most useful things I found while making my git
 
 ### How ~~not~~ to *edit* text in the **README.MD** file?
 - LMAO, well [this](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is where I learned to edit my text from. Highly recommend checking it out if you have the time!
+- Not sure if the link mentioned this but with `***` you get a line like this
+***
 
 ### How to center text or images? 
 - If you want to use CSS in your README.md files you need to add html to the code. e.g. something like div's 
@@ -95,13 +97,12 @@ This is a list of the some of the most useful things I found while making my git
 </div>
 ```
 
-### How to add images or gif's?
+
+### How to add images or gif's in html (centered)?
 ```
-<img src="<link>" width="<width>" height="<height>"/>
-```
-or
-```
-![<Alt Text>](<link to image>)
+<div align="center">
+  <img src="<link>" width="<width>" height="<height>"/>
+</div>
 ```
 
 ### What is a "full width" size in images and gif's?
