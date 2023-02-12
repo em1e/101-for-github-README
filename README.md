@@ -1,6 +1,6 @@
 # GitHub-Profile-101
 
-This is a list of the most useful things I found was possible while making your github profile, as well as good to know when writing detailed readme.md files in any of your future repositories. **NOTE:** don't forget to Star or Fork if you found this rep useful.
+This is a list of the some of the most useful things I found while making my github profile. I hope it'll be useful to others either for making their own profiles look nicer or better detailed readme.md files in any of their future repositories. **NOTE:** don't forget to Star or Fork if you found this rep useful.
 
 ## Icons & Badges
 <div align="center">
