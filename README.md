@@ -96,6 +96,7 @@ This is a list of the some of the most useful things I found while making my git
 - If you want to use CSS in your README.md files you need to add html to the code. e.g. something like div's
 
 <!--
+https://zzetao.github.io/awesome-github-profile/
 https://codesandbox.io/s/readme-introgif-9fjo5
 https://github.com/Nathan13888/VisitorBadgeReloaded
 https://yaytext.com/monospace/
