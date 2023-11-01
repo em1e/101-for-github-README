@@ -87,14 +87,22 @@ This is a list of the some of the most useful things I found while making my git
   </table>
 </div>
 
-
 ### How ~~not~~ to *edit* text in the **README.MD** file?
 - LMAO, well [this](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is where I learned to edit my text from. Highly recommend checking it out if you have the time!
 - Not sure if the link mentioned this but with `***` you get a line like this
 ***
 
 ### How to center text or images? 
-- If you want to use CSS in your README.md files you need to add html to the code. e.g. something like div's 
+- If you want to use CSS in your README.md files you need to add html to the code. e.g. something like div's
+
+<!--
+https://codesandbox.io/s/readme-introgif-9fjo5
+https://github.com/Nathan13888/VisitorBadgeReloaded
+https://yaytext.com/monospace/
+https://github.com/jamesgeorge007/github-activity-readme
+https://github.com/lowlighter/metrics
+-->
+
 ```
 <div align="center">
   <p> Hello world<p>
