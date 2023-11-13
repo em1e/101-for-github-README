@@ -92,6 +92,22 @@ This is a list of the some of the most useful things I found while making my git
 - Not sure if the link mentioned this but with `***` you get a line like this
 ***
 
+#### Some other links
+
+<table>
+<td>
+
++  [Inspiration for profiles](https://github.com/coderjojo/creative-profile-readme)
++  [Formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
++  [Colored text](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
++  [Diagrams, maps and 3D objects](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
++  [To do -lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists)
++  [Collapsed sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections)
+      
+</td>
+</table>
+
+
 ### How to center text or images? 
 - If you want to use CSS in your README.md files you need to add html to the code. e.g. something like div's
 
