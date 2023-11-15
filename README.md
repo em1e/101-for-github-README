@@ -68,6 +68,8 @@ This is a list of some useful things I found while making my github profile, and
       <th>
         <a href="https://blog.arnabghosh.me/add-github-dark-snake-animation-readme">
           <p>Snake animation guide</p>
+        </a>
+        <p>(broken)</p>
       </th>
       <th> 
         <img src="https://github.com/em1e/em1e/blob/output/github-contribution-grid-snake.svg"/>
