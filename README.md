@@ -1,5 +1,3 @@
-     
-      
 
 # 101 for github README files
 
@@ -126,6 +124,7 @@ or HTML
   <img src="<link to image>" width="<width>" height="<height>"/>
 </div>
 ```
+
 <!--
 ### What is a "full width" size in images and gif's?
 - The width that worked the best as full width was 1601 pixels, while heigth depends what you want. I personally used 1601x200 and 1601x728 sized gif's in my profile. -->
