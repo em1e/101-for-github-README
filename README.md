@@ -3,7 +3,7 @@
 
 # 101 for github README files
 
-This is a list of the some of the useful things I found while making my github profile, and things I use for other README.md files. I hope it'll be useful to anyone making their own profiles look nicer or generally making better readme.md files for projects. **NOTE:** don't forget to Star if you found this rep useful.
+This is a list of the some of the useful things I found while making my github profile, and things that would be useful for any md files in the future. I hope it'll be useful to anyone making their own profiles look nicer or just adding better readme.md in general. **NOTE:** don't forget to Star if you found this rep useful and want to find it again later on.
 
 ## Icons & Badges
 <div align="center">
@@ -87,31 +87,21 @@ This is a list of the some of the useful things I found while making my github p
   </table>
 </div>
 
-### How ~~not~~ to *edit* text in the **README.MD** file?
-- LMAO, well [this](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is where I learned to edit my text from. Highly recommend checking it out if you have the time!
-- Not sure if the link mentioned this but with `***` you get a line like this
-***
-
-#### Some other links
+## Text formatting and other stuff:
 
 <table>
 <td>
 
 +  [Inspiration for profiles](https://github.com/coderjojo/creative-profile-readme)
-+  [Formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
++  [Formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (Recommend)
 +  [Colored text](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
 +  [Diagrams, maps and 3D objects](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
-+  [To do -lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists)
-+  [Collapsed sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections)
++  [To do -lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists) (Recommend)
++  [Collapsed sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections) (Recommend)
       
 </td>
 </table>
-
-
-### How to center text or images? 
-- If you want to use CSS in your README.md files you need to add html to the code. e.g. something like div's
-
-<!--
+<!-- some more stuff
 https://zzetao.github.io/awesome-github-profile/
 https://codesandbox.io/s/readme-introgif-9fjo5
 https://github.com/Nathan13888/VisitorBadgeReloaded
@@ -120,26 +110,29 @@ https://github.com/jamesgeorge007/github-activity-readme
 https://github.com/lowlighter/metrics
 -->
 
+## How to center text or images? 
+- If you want to use CSS in your README.md files you need to add html to the code. e.g. something like div's
+
 use HTML
 ```
 <div align="center">
-  <p> Hello world<p>
+  <p>text<p>
 </div>
 ```
 
 
-### How to add images or gif's?
+## How to add images or gif's?
 
-use md (can't change the size)
+use md (size can't changed)
 ```
 ![name](link to image)
 ```
 or HTML
 ```
 <div align="center">
-  <img src="<link>" width="<width>" height="<height>"/>
+  <img src="<link to image>" width="<width>" height="<height>"/>
 </div>
 ```
-
+<!--
 ### What is a "full width" size in images and gif's?
-- The width that worked the best as full width was 1601 pixels, while heigth depends what you want. I personally used 1601x200 and 1601x728 sized gif's in my profile.
+- The width that worked the best as full width was 1601 pixels, while heigth depends what you want. I personally used 1601x200 and 1601x728 sized gif's in my profile. -->
