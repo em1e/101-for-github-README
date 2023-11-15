@@ -107,8 +107,6 @@ https://github.com/lowlighter/metrics
 
 ## How to center text or images? 
 - If you want to use CSS in your README.md files you need to add html to the code. e.g. something like div's
-
-use HTML
 ```
 <div align="center">
   <p>text<p>
