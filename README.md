@@ -1,7 +1,7 @@
      
       
 
-# GitHub-Profile-101
+# 101 for github README files
 
 This is a list of the some of the most useful things I found while making my github profile. I hope it'll be useful to others either for making their own profiles look nicer or better detailed readme.md files in any of their future repositories. **NOTE:** don't forget to Star or Fork if you found this rep useful.
 
