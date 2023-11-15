@@ -120,6 +120,7 @@ https://github.com/jamesgeorge007/github-activity-readme
 https://github.com/lowlighter/metrics
 -->
 
+use HTML
 ```
 <div align="center">
   <p> Hello world<p>
@@ -127,7 +128,13 @@ https://github.com/lowlighter/metrics
 ```
 
 
-### How to add images or gif's in html (centered)?
+### How to add images or gif's?
+
+use md (can't change the size)
+```
+![name](link to image)
+```
+or HTML
 ```
 <div align="center">
   <img src="<link>" width="<width>" height="<height>"/>
