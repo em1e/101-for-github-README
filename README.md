@@ -3,7 +3,7 @@
 
 # 101 for github README files
 
-This is a list of the some of the useful things I found while making my github profile, and things that would be useful for any md files in the future. I hope it'll be useful to anyone making their own profiles look nicer or just adding better readme.md in general. **NOTE:** don't forget to Star if you found this rep useful and want to find it again later on.
+This is a list of some useful things I found while making my github profile, and things that would be useful for any md files I make in the future. I hope it'll also be useful to anyone making their own profiles look nicer or just adding better readme.md in general. **NOTE:** don't forget to Star if you found this rep useful and want to find it again later on.
 
 ## Icons & Badges
 <div align="center">
