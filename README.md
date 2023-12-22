@@ -22,7 +22,7 @@ This is a list of some useful things I found while making my github profile, and
     <tr>
       <th>
         <a href="https://github.com/Ileriayo/markdown-badges/blob/master/README.md">
-          <p>Ready made badges</p>
+          <p>Ready made badges A</p>
       </th>
       <th>
         <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
@@ -30,10 +30,10 @@ This is a list of some useful things I found while making my github profile, and
     </tr>
     <tr>
       <th> 
+        <a href="https://github.com/Naereen/badges">
+          <p>Ready made badges B</p>
         <a href="https://shields.io/">
-          <p>Badge generator #1 </p>
-        <a href="https://michaelcurrin.github.io/badge-generator/#/">
-          <p>Badge generator #2 </p>
+          <p>Badge generator </p>
       </th>
       <th> 
         <img src="https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/badge-generator/vue?logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Maintained-yes-green"/>
