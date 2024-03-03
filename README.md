@@ -14,7 +14,7 @@ This is a list of some useful things I found while making my github profile, and
       <th>
         <a href="https://github.com/devicons/devicon/tree/master/icons">
           <p>Ready made icons</p>
-      </th>
+      </th> 
       <th>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp; <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" title="C++" alt="C++" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
       </th>
